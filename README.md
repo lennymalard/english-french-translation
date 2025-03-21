@@ -10,7 +10,7 @@ TrED (Translation Encoder-Decoder) Models were built to explore sequence-to-sequ
 
 - TrED3 is a BiLSTM Encoder-Decoder with Attention 
 
-- TrED4 is a Transformer Encoder-Decoder (currently in development)
+- TrED4 is a Transformer Encoder-Decoder 
 
 
 Evaluation results (TBA) :
@@ -18,5 +18,5 @@ Evaluation results (TBA) :
 The evaluation process combines BLEU and METEOR metrics.
 
 
-More information is coming soon.
+More information is coming soon. I plan to train them on a larger dataset.
 
