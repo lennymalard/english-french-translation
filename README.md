@@ -15,7 +15,7 @@ TrED (Translation Encoder-Decoder) Models were built to explore sequence-to-sequ
 
 Evaluation results (TBA) :
 
-The evaluation process combines BLEU and METEOR metrics. TrED2 is currently the best option for translating individual sentences.
+The evaluation process combines BLEU and METEOR metrics.
 
 
 More information is coming soon.
