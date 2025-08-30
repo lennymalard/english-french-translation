@@ -1,7 +1,7 @@
 
 **Status: Currently Paused**  
 
-TrED (Translation Encoder-Decoder) Models were developed to explore sequence-to-sequence translation tasks. This project is the foundation for a future multilingual translation application.  
+TrED (Translation Encoder-Decoder) Models were developed to explore sequence-to-sequence translation tasks. This project is the foundation for a future multilingual machine translation application.  
 
 ## Models  
 
